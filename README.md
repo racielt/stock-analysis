@@ -41,6 +41,7 @@ As we can see in the results, 2017 was a year in which almost every stock had a 
 Now, for the refactor code, we proceed to “clean” or edit the code, so it can give us the information in a faster time. What we did is that our code only loop through our data one time
 
 Here you can see the code that we edit, so the loop only goes one time throught all the data, instead of the code that we used before.
+
 ![image](https://user-images.githubusercontent.com/90534703/135391058-0847ac5c-a70f-4a2e-8f2f-63652cce6838.png)
 
 
